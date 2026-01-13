@@ -180,13 +180,9 @@ Beekeeper Studio (database client)
 
 Git + GitHub (version control)
 
-📁 Repository Structure (suggested)
-/schema.sql
-/insert_data.sql
-/queries.sql
-/README.md
 
 📎 Author
 
 Developed by Debajit
+________________________
 SQL • Data Modeling • Backend Logic • Relational Thinking
